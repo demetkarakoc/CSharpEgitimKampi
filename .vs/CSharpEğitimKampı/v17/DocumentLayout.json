@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\CSharpE\u011FitimKamp\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{345BDDA2-CFDA-404D-8585-62B64010A056}|_DatabaseCrud\\_DatabaseCrud.csproj|c:\\users\\user\\source\\repos\\csharpe\u011Fitimkamp\u0131\\_databasecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345BDDA2-CFDA-404D-8585-62B64010A056}|_DatabaseCrud\\_DatabaseCrud.csproj|solutionrelative:_databasecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DBEAEE-F039-4F42-A1E7-79EAC069502E}|-DatabaseProject\\-DatabaseProject.csproj|c:\\users\\user\\source\\repos\\csharpe\u011Fitimkamp\u0131\\-databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DBEAEE-F039-4F42-A1E7-79EAC069502E}|-DatabaseProject\\-DatabaseProject.csproj|solutionrelative:-databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7580D307-5FEE-4D81-87E2-7C1E2922F45D}|_Methods\\_Methods.csproj|C:\\Users\\user\\source\\repos\\CSharpE\u011FitimKamp\u0131\\_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7580D307-5FEE-4D81-87E2-7C1E2922F45D}|_Methods\\_Methods.csproj|solutionrelative:_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C026EFA-9853-4CBD-8F76-941FC61B44B5}|_ForeachLoops\\_ForeachLoops.csproj|C:\\Users\\user\\source\\repos\\CSharpE\u011FitimKamp\u0131\\_foreachloops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C026EFA-9853-4CBD-8F76-941FC61B44B5}|_ForeachLoops\\_ForeachLoops.csproj|solutionrelative:_foreachloops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CSharpE\u011FitimKamp\u0131\\_DatabaseCrud\\Program.cs",
+              "RelativeDocumentMoniker": "_DatabaseCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CSharpE\u011FitimKamp\u0131\\_DatabaseCrud\\Program.cs",
+              "RelativeToolTip": "_DatabaseCrud\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAD4v5sAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:51:00.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CSharpE\u011FitimKamp\u0131\\-DatabaseProject\\Program.cs",
+              "RelativeDocumentMoniker": "-DatabaseProject\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CSharpE\u011FitimKamp\u0131\\-DatabaseProject\\Program.cs",
+              "RelativeToolTip": "-DatabaseProject\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:21:16.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CSharpE\u011FitimKamp\u0131\\_Methods\\Program.cs",
+              "RelativeDocumentMoniker": "_Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CSharpE\u011FitimKamp\u0131\\_Methods\\Program.cs",
+              "RelativeToolTip": "_Methods\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwK8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T19:46:39.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\CSharpE\u011FitimKamp\u0131\\_ForeachLoops\\Program.cs",
+              "RelativeDocumentMoniker": "_ForeachLoops\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\CSharpE\u011FitimKamp\u0131\\_ForeachLoops\\Program.cs",
+              "RelativeToolTip": "_ForeachLoops\\Program.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAIwIEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:47:31.669Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

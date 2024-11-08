@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\CSharpEğitimKampı\_DatabaseCrud\bin\Debug\_DatabaseCrud.exe.config
+C:\Users\user\source\repos\CSharpEğitimKampı\_DatabaseCrud\bin\Debug\_DatabaseCrud.exe
+C:\Users\user\source\repos\CSharpEğitimKampı\_DatabaseCrud\bin\Debug\_DatabaseCrud.pdb
+C:\Users\user\source\repos\CSharpEğitimKampı\_DatabaseCrud\obj\Debug\_DatabaseCrud.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharpEğitimKampı\_DatabaseCrud\obj\Debug\_DatabaseCrud.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharpEğitimKampı\_DatabaseCrud\obj\Debug\_DatabaseCrud.exe
+C:\Users\user\source\repos\CSharpEğitimKampı\_DatabaseCrud\obj\Debug\_DatabaseCrud.pdb

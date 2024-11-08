@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\CSharpEğitimKampı\_Loops\bin\Debug\_Loops.exe.config
+C:\Users\user\source\repos\CSharpEğitimKampı\_Loops\bin\Debug\_Loops.exe
+C:\Users\user\source\repos\CSharpEğitimKampı\_Loops\bin\Debug\_Loops.pdb
+C:\Users\user\source\repos\CSharpEğitimKampı\_Loops\obj\Debug\_Loops.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharpEğitimKampı\_Loops\obj\Debug\_Loops.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharpEğitimKampı\_Loops\obj\Debug\_Loops.exe
+C:\Users\user\source\repos\CSharpEğitimKampı\_Loops\obj\Debug\_Loops.pdb

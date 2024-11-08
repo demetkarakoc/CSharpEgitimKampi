@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\CSharpEğitimKampı\-DatabaseProject\bin\Debug\-DatabaseProject.exe.config
+C:\Users\user\source\repos\CSharpEğitimKampı\-DatabaseProject\bin\Debug\-DatabaseProject.exe
+C:\Users\user\source\repos\CSharpEğitimKampı\-DatabaseProject\bin\Debug\-DatabaseProject.pdb
+C:\Users\user\source\repos\CSharpEğitimKampı\-DatabaseProject\obj\Debug\-DatabaseProject.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharpEğitimKampı\-DatabaseProject\obj\Debug\-DatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharpEğitimKampı\-DatabaseProject\obj\Debug\-DatabaseProject.exe
+C:\Users\user\source\repos\CSharpEğitimKampı\-DatabaseProject\obj\Debug\-DatabaseProject.pdb

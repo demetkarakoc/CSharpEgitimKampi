@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\CSharpEğitimKampı\_MainSubjects\bin\Debug\_MainSubjects.exe.config
+C:\Users\user\source\repos\CSharpEğitimKampı\_MainSubjects\bin\Debug\_MainSubjects.exe
+C:\Users\user\source\repos\CSharpEğitimKampı\_MainSubjects\bin\Debug\_MainSubjects.pdb
+C:\Users\user\source\repos\CSharpEğitimKampı\_MainSubjects\obj\Debug\_MainSubjects.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharpEğitimKampı\_MainSubjects\obj\Debug\_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharpEğitimKampı\_MainSubjects\obj\Debug\_MainSubjects.exe
+C:\Users\user\source\repos\CSharpEğitimKampı\_MainSubjects\obj\Debug\_MainSubjects.pdb

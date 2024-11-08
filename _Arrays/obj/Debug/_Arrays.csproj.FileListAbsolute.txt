@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\CSharpEğitimKampı\_Arrays\bin\Debug\_Arrays.exe.config
+C:\Users\user\source\repos\CSharpEğitimKampı\_Arrays\bin\Debug\_Arrays.exe
+C:\Users\user\source\repos\CSharpEğitimKampı\_Arrays\bin\Debug\_Arrays.pdb
+C:\Users\user\source\repos\CSharpEğitimKampı\_Arrays\obj\Debug\_Arrays.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharpEğitimKampı\_Arrays\obj\Debug\_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharpEğitimKampı\_Arrays\obj\Debug\_Arrays.exe
+C:\Users\user\source\repos\CSharpEğitimKampı\_Arrays\obj\Debug\_Arrays.pdb
